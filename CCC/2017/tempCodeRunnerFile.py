@@ -1,0 +1,1 @@
+or p1 in range(1, height//2+1):
